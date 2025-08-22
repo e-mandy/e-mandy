@@ -1,7 +1,9 @@
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/7f5257a3-ff63-4cee-ba79-031e6e3b0130" 
-       alt="Live Wallpaper 4K Black Hole" 
-       width="100%" />
+       alt="Live Wallpaper 4K Black Hole"
+       width="100%"
+       height="200"
+       style="object-fit: cover;" />
 </p>
 
 # 💫 About Me:
