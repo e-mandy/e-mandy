@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working at freelancer as a fullstact developper<br>- 🌱 I’m currently learning React, Laravel & Node Js.<br>- 👨🏿‍💻 I’m open to freelancing projects<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me:  📩 elomanfred@gmail.com<br>- ⚡ Fun fact: I like to developp skills everyday and i'm obsessed to knowledge.
+- 🔭 I’m currently working at freelancer as a fullstact developper<br>- 🌱 I’m currently learning React, Laravel & Node Js.<br>- 👨🏿‍💻 I’m open to freelancing projects<br>- 📫 How to reach me:  📩 elomanfred@gmail.com<br>- ⚡ Fun fact: I like to developp skills everyday and i'm obsessed to knowledge.
 
 
 ## 🌐 Socials:
