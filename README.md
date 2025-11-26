@@ -10,15 +10,11 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=e-mandy&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
-
   <br/>
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=e-mandy&theme=react&hide_border=false" />
 
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-mandy&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
 
