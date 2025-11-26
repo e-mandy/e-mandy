@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills on MERN Stack<br>👯 I’m looking to collaborate on any projects<br>🌱 I’m currently learning Pythont <br>⚡ Fun fact, I was borned for Astronomy
+🔭 I’m currently working on my skills on MERN Stack<br>👯 I’m looking to collaborate on any projects<br>🌱 I’m currently learning Python<br>⚡ Fun fact, I was borned for Astronomy
 
 
 ## 🌐 Socials:
