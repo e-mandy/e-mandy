@@ -1,15 +1,15 @@
 <!-- Animated header -->
-<!--<p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=OHHEE+Ningen!+👋;Ore+wa+Andy+ATOHOUN;Full+Stack+Developer+💻;Python+Learning;Welcome+to+my+Universe!" alt="Typing SVG" />
-</p>-->
+</p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Primael-dev">
-    <img src="https://komarev.com/ghpvc/?username=Primael-dev&label=Profile%20views&color=00FFFF&style=flat-square" alt="Primael-dev's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=e-mandy">
+    <img src="https://komarev.com/ghpvc/?username=e-mandy&label=Profile%20views&color=00FFFF&style=flat-square" alt="Andy Dev Profile view" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<!--<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />-->
 
 # 💫 About Me:
 🔭 I’m currently working on my skills on MERN Stack<br>👯 I’m looking to collaborate on any projects<br>🌱 I’m currently learning Python<br>⚡ Fun fact, I was borned for Astronomy
