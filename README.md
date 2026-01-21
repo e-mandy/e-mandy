@@ -1,7 +1,7 @@
 <!-- Animated header -->
-<p align="center">
+<!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=OHHEE+Ningen!+👋;Ore+wa+Andy+ATOHOUN;Full+Stack+Developer+💻;Python+Learning;Welcome+to+my+Universe!" alt="Typing SVG" />
-</p>
+</p>-->
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Primael-dev">
