@@ -39,7 +39,9 @@ def generate(args):
 
     # Load config
     if demo:
-        config_path = os.path.join(os.path.dirname(__file__), "..", "config.example.yml")
+        config_path = os.path.join(os.path.dirname(__file__), "..", "config.yml")
+        if not os.path.exists(config_path):
+            config_path = os.path.join(os.path.dirname(__file__), "..", "config.example.yml")
     else:
         config_path = os.path.join(os.path.dirname(__file__), "..", "config.yml")
 

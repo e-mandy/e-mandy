@@ -57,10 +57,10 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "e-mandy/Secretary_frontend_v2 "
+  - repo: "e-mandy/Secretary_frontend_v2"
     arm: 0
     description: "A dynamic dashboard for the secretary of an university."
-  - repo: "kaizen-squad/upply-backend "
+  - repo: "kaizen-squad/upply-backend"
     arm: 1
     description: "A basic backend system for a freelance platform."
 
